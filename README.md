@@ -70,3 +70,17 @@ Details on how to contribute to rAthena can be found in [CONTRIBUTING.md](https:
 
 ## 6. License
 Copyright (c) rAthena Development Team - Licensed under [GNU General Public License v3.0](https://github.com/rathena/rathena/blob/master/LICENSE)
+
+## 7. Setup
+- Create compile file
+- Update MySQL from Laragon to latest version
+- Import SQL files:
+ - item_cash_db.sql
+ - item_db_re.sql
+ - item_db2_re.sql
+ - logs.sql
+ - main.sql
+ - mod_db_re.sql
+ - mod_db2_re.sql
+ - mod_skill_db_re.sql
+ - mod_skill_db2_re.sql
